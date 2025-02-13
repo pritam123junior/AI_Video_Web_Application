@@ -1,0 +1,3 @@
+ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c01.avi 0
+ApplyEyeMakeup/v_ApplyEyeMakeup_g01_c02.avi 0
+Archery/v_Archery_g01_c01.avi 1

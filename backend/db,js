@@ -1,0 +1,9 @@
+import { createClient } from '@neondatabase/neon';
+
+const db = createClient(process.env.DATABASE_URL);
+
+export async function getVideos() {
+  return db.query('SELECT * FROM videos');
+}
+
+export default db;

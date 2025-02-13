@@ -1,0 +1,11 @@
+body {
+    background-color: #3c356e; /* Equivalent to bg-gray-100 */
+    color: #1a202c; /* Equivalent to text-gray-900 */
+    font-family: Arial, sans-serif;
+  }
+  
+  button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
